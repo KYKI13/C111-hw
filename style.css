@@ -1,0 +1,16 @@
+body{
+    background:pink;
+    color:black;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+
+.name_of_objects {
+    color:rgb(153, 0, 255);
+}
+hr{
+    border-top: 2px solid aqua;
+}
